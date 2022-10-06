@@ -21,6 +21,7 @@ h1 {
   width: 60px;
   height: 60px;
   border: solid 2px black;
+  background-color: rgb(192, 192, 192, 0.3);
 }
 
 /* pieces are div within game table cells: draw as colored circles */
