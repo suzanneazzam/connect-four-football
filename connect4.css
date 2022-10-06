@@ -52,6 +52,7 @@ div .Football {
 
 #column-top td {
   border: dashed 1px gray;
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 #column-top td:hover {
